@@ -10,7 +10,7 @@ You can substitute the images for whatever you like in `ui/src/Items.jsx` by pro
 
 You can watch the video on [YouTube](https://www.youtube.com/watch?v=CDTryd4YPoQ).
 
-Special thanks to all the Team Reactor members:
+Special thanks to all the Team Reactor members and SAP Staff present during the event.
 * Alejandro Flores-Méndez PhD., VRTCL
 * Daniel Phelps, Heat Transfer Research, Inc.
 * Denis Doiron, Stellar One Consulting
