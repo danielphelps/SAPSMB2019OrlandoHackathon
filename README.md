@@ -4,16 +4,17 @@ Summit Hackathon in Orlando.  It uses a webcam to capture the user's
 reaction to items in a Business One database.  This program is adapted 
 from the "cfDemoSummit18" example provided by the B1SA team.
 
-The ui is built with create-react-app, and the python scripts use some libraries built on top of TensorFlow and opencv.
+The ui is built with create-react-app, and the python scripts uses a library built on top of TensorFlow and opencv.
 
 You can substitute the images for whatever you like in `ui/src/Items.jsx` by providing a list of dictionaries each containing a key `U_ImageURL`.
 
 You can watch the video on [YouTube](https://www.youtube.com/watch?v=CDTryd4YPoQ).
 
 Special thanks to all the Team Reactor members:
-* Alejandro Flores Mendez PhD.
+* Alejandro Flores Mendez PhD., VRTCL
 * Daniel Phelps, Heat Transfer Research, Inc.
 * Denis Doiron, Stellar One Consulting
+* Mario Reyes, VRTCL
 
 [![SAP](https://i.imgur.com/kkQTp3m.png)](https://cloudplatform.sap.com)
 
